@@ -5,6 +5,7 @@ import About from './components/About';
 import AboutCard from './components/AboutCard';
 import Developers from './components/Developers';
 import Subscribe from './components/Subscribe';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       <AboutCard />
       <Developers />
       <Subscribe />
-      
+      <Footer/>
       
     </div>
   );
