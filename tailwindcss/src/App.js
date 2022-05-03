@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import AboutCard from './components/AboutCard';
 import Developers from './components/Developers';
+import Subscribe from './components/Subscribe';
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
       <About />
       <AboutCard />
       <Developers />
+      <Subscribe />
+      
       
     </div>
   );
